@@ -7,11 +7,11 @@ permalink: /
   <div style="flex: 1; padding-right: 20px;">
     Hi, I’m Sashank! 
     
-    I'm a scientist with 10+ years of experience studying and mitigating the real-world failure modes of intelligent systems. I'm currently a research engineer at [**atla**](https://www.atla-ai.com/), where I build frontier models to evaluate LLMs.
+    I'm a scientist with 10+ years of experience studying and mitigating the failure modes of intelligent systems. I'm currently a research engineer at [**atla**](https://www.atla-ai.com/), where I build frontier models to evaluate LLMs.
 
-    Previously, I was at [**limbic**](https://limbic.ai) building clinical AI throughout the mental healthcare pathway and ensuring its safety/reliability. Before that, I studied continual learning failures in the [Niv lab](https://nivlab.princeton.edu/) and multimodal misjudgements in the [Churchland lab](https://churchlandlab.dgsom.ucla.edu/).
+    Previously, I was an ML scientist at [**limbic**](https://limbic.ai) building clinical AI throughout the mental healthcare pathway & ensuring its safety and reliability. Before that, I studied continual learning failures as a [postdoc](https://nivlab.princeton.edu/) and lapses in multimodal decisions during my [PhD](https://churchlandlab.dgsom.ucla.edu/).
 
-    I enjoy making music, lifelong learning and writing [poetry](https://thelemonbot.wordpress.com). You can contact me at firstname [dot] lastname [at] gmail.
+    I enjoy making music and writing [poems](https://thelemonbot.wordpress.com). email: firstname[dot]lastname[at]gmail.com
 
     <ul style="list-style-type: none; padding: 0; margin-top: 20px;">
       <li style="display: inline-block; margin-right: 10px;">

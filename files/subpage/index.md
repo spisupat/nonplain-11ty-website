@@ -1,6 +1,5 @@
 ---
 title: Advocacy
-order: 1
 ---
 
 # Subpage
