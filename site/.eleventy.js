@@ -3,6 +3,9 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const buildFiles = require("./build-files");
 
 module.exports = function (eleventyConfig) {
+  /* Assets */
+  eleventyConfig.addPassthroughCopy("assets");
+
   /* Plugins */
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 

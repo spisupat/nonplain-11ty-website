@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Research
 ---
 
 **[Post 2](post-2)**
