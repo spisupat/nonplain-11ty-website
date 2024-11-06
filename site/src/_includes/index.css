@@ -244,26 +244,22 @@ input {
 
 table {
   border-collapse: collapse;
-  display: block;
-  overflow-x: auto;
-  table-layout: fixed;
   width: 100%;
 }
 
-table * {
-  text-align: left;
-  vertical-align: top;
+table td {
+  padding: 8px;
+  border: none;
 }
 
-table th {
-  background: rgba(120, 120, 120, 0.1);
+table tr {
+  background-color: transparent;
 }
 
-table:not(.borderless) th,
-table:not(.borderless) td {
-  border: 1px solid var(--fg);
-  padding: 6px;
+table tr:hover {
+  background-color: #ddd;
 }
+
 
 img {
   height: auto;
