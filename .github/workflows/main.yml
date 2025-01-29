@@ -1,5 +1,4 @@
 name: Deploy 11ty Site to GitHub Pages
-
 on:
   push:
     branches:
@@ -8,7 +7,6 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-
     steps:
       # Step 1: Checkout the repository
       - name: Checkout code
@@ -20,19 +18,19 @@ jobs:
         with:
           node-version: 18 # Use the Node.js version you're using locally
 
-      # Step 3: Navigate to the site/ directory
-      - name: Navigate to site directory
-        run: cd site
-
-      # Step 4: Install dependencies
+      # Step 3: Navigate to the site/ directory and install dependencies
       - name: Install dependencies
-        run: npm install
+        run: |
+          cd site
+          npm install
 
-      # Step 5: Build the 11ty site
+      # Step 4: Build the 11ty site
       - name: Build site
-        run: npx @11ty/eleventy
+        run: |
+          cd site
+          npx @11ty/eleventy
 
-      # Step 6: Deploy to GitHub Pages
+      # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
