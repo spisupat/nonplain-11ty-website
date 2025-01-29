@@ -2,7 +2,16 @@
   "scripts": {
     "build": "eleventy"
   },
-  "devDependencies": {
-    "@11ty/eleventy": "^2.0.0"  
-  }
+  "dependencies": {
+    "@11ty/eleventy": "3.0.0",
+    "sass": "1.80.6"
+  },
+  "name": "nonplain-11ty-website",
+  "version": "1.0.0",
+  "description": "```shell $ cd site   npm i   npm run dev ```",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
 }
