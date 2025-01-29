@@ -12,5 +12,7 @@
   "main": "index.js",
   "keywords": [],
   "author": "",
+  "license": "ISC",
+  "devDependencies": {}
   "license": "ISC"
 }

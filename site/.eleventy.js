@@ -5,6 +5,7 @@ const buildFiles = require("./build-files");
 module.exports = function (eleventyConfig) {
   /* Assets */
   eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy("src/_includes/*.css");
 
   /* Plugins */
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
