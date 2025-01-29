@@ -1,0 +1,41 @@
+name: Deploy 11ty Site to GitHub Pages
+on:
+  push:
+    branches:
+      - master # Trigger on pushes to the master branch
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Node.js
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18 # Use the Node.js version you're using locally
+
+      # Step 3: Navigate to the site/ directory and install dependencies
+      - name: Install dependencies
+        run: |
+          cd site
+          npm install
+
+      # Step 4: Build the 11ty site
+      - name: Build site
+        run: |
+          cd site
+          npx @11ty/eleventy
+
+      # Step 5: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.DEPLOY_KEY }}
+          publish_dir: ./site/_site # The directory where your built files are located
+          external_repository: spisupat/spisupat.github.io # Your GitHub Pages repo
+          publish_branch: master # The branch to deploy to (usually main or gh-pages)
+          keep_files: false # Overwrite existing files in the target repo
