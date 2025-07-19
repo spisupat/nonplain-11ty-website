@@ -7,7 +7,7 @@ permalink: /
   <div style="flex: 1; padding-right: 20px;">
     Hi, I'm Sashank!
     
-    I'm a scientist with 10+ years of experience studying and mitigating the failure modes of intelligent systems. I'm currently a research engineer working on AI safety at [**atla**](https://www.atla-ai.com/), where I build frontier models to evaluate LLMs.
+    I'm a scientist with 10+ years of experience studying and mitigating the failure modes of intelligent systems. Currently, I lead the research team at [**atla**](https://www.atla-ai.com/), where we develop critic models to evaluate & improve agents using modern RL & post-training.
 
     Previously, I was an ML scientist at [**limbic**](https://limbic.ai) building clinical AI throughout the mental healthcare pathway & ensuring its safety and reliability. Before that, I studied continual learning failures in the [Niv lab](https://nivlab.princeton.edu/) at Princeton.
 
