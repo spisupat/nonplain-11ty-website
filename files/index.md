@@ -7,9 +7,9 @@ permalink: /
   <div style="flex: 1; padding-right: 20px;">
     Hi, I'm Sashank!
     
-    I'm a scientist with 10+ years of experience studying and mitigating the failure modes of intelligent systems. Currently, I lead the research team at [**atla**](https://www.atla-ai.com/), where we develop critic models to evaluate & improve agents using modern RL & post-training.
-
-    Previously, I was an ML scientist at [**limbic**](https://limbic.ai) building clinical AI throughout the mental healthcare pathway & ensuring its safety and reliability. Before that, I studied continual learning failures in the [Niv lab](https://nivlab.princeton.edu/) at Princeton.
+    I'm a research scientist with 10+ years of experience studying the failure modes of intelligent systems. Currently, I work on post-training & alignment of open frontier models at [**Reflection**](https://reflection.ai/), where I drive our reward modeling efforts.
+    
+    Previously, I lead the research team at [**atla**](https://www.atla-ai.com/), training [general-purpose evaluators](https://arxiv.org/abs/2501.17195). Before that, I was at [**limbic**](https://limbic.ai) building safe and performant [clinical AI](https://www.nature.com/articles/s41591-026-04278-w). During my postdoc at [**Princeton**](https://nivlab.princeton.edu/) I studied failures of [continual learning](https://nivlab.princeton.edu/wp-content/uploads/sites/938/2024/06/Human-inductive-biases-for-aversive-continual-learning-%E2%80%94-a-hierarchical-Bayesian-nonparametric-model-1.pdf). 
 
     I enjoy making music and writing [poems](https://thelemonbot.wordpress.com). email: firstname[dot]lastname[at]gmail.com
 
