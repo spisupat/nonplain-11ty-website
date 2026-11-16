@@ -27,10 +27,15 @@ function buildFiles() {
     const newBody = markdownLinksToHTML({ content: body, file: metadata.file });
 
     /* Add a valid permalink and navigation data for each file */
+    /*
+     * Frontmatter wins for `permalink`, but `eleventyNavigation` is merged
+     * (frontmatter keys override the computed key/parent/order/title) so a
+     * page can set e.g. `order` without losing its computed key.
+     */
     const newMetadata = {
-      eleventyNavigation: getEleventyNavigation(metadata),
-      permalink: getPermalinkFromFile(metadata.file),
       ...metadata,
+      eleventyNavigation: getEleventyNavigation(metadata),
+      permalink: metadata.permalink || getPermalinkFromFile(metadata.file),
     };
 
     return {
