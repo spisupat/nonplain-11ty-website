@@ -10,7 +10,7 @@ Psychology & psychiatry have a long history of being on the wrong side of this, 
 
 #### Neurodiversity in academia
 A workshop co-organised with Mira Nencheva, Laura Murray, and Laura Bustamante for the [Princeton University Neurodiversity Collective](https://www.dailyprincetonian.com/article/2023/02/neurodiversity-in-academia-wintersession). 
-Discusses historic & current harms; critical psychiatry, Mad Pride, and neurodiversity movements; and where academia is now (legislation, accommodation, stigma, disclosure). Followed by a lived experience panel and breakouts on participatory research and teaching. [Slides](https://docs.google.com/presentation/d/1CgrrIZO4xmioKPiQTDp-TdSgoumyHsafw5x9swvEvJw/edit?usp=sharing)
+Discusses past & current harms, a history of neurodiversity movements, and where academia is now in terms of legislation, accommodations, and disclosure. Followed by a lived experience panel and breakouts on participatory research and teaching. [Slides](https://docs.google.com/presentation/d/1CgrrIZO4xmioKPiQTDp-TdSgoumyHsafw5x9swvEvJw/edit?usp=sharing)
 
 
 #### Neurodiversity resource guide for scientists
@@ -18,7 +18,7 @@ A resource guide written with Charlie Rodriguez-Deliz and the [Scientist Action 
 
 
 #### Season of the Bitch, ep. 185: Freud is the worst
-A podcast [episode](https://soundcloud.com/seasonofthebitch/episode-185-freud-is-the-worst) on the history of psychology & psychiatry: Freud, the pathologisation of Black, queer, trans and neurodivergent people, the carceral mental health system, and non-carceral alternatives like peer support groups. 
+A podcast [episode](https://soundcloud.com/seasonofthebitch/episode-185-freud-is-the-worst) on the history of psychology & psychiatry: Freud, the pathologisation of Black, queer, trans and neurodivergent people, carceral aspects of the mental health system, and non-carceral alternatives like peer support. 
 
 #### #StopTheShock campaign
-The Judge Rotenberg Center in Massachusetts still uses electric shock devices on disabled residents. The FDA banned the devices in 2020; a federal court overturned the ban in 2021. Congress restored the FDA's authority in 2022; the FDA re-proposed the ban in 2024 and missed its own deadline to finalise it in 2026. [Campaign page](https://autisticadvocacy.org/stoptheshock/) from the Autistic Self Advocacy Network.
+The Judge Rotenberg Center in Massachusetts still uses electric shock devices on disabled residents. The FDA banned the devices in 2020, but a federal court overturned the ban in 2021. Congress restored the FDA's authority in 2022 and the FDA re-proposed the ban in 2024, but missed its own deadline to finalise it in 2026. [Campaign page](https://autisticadvocacy.org/stoptheshock/) from the Autistic Self Advocacy Network.
