@@ -14,7 +14,7 @@ Discusses historic & current harms; critical psychiatry, Mad Pride, and neurodiv
 
 
 #### Neurodiversity resource guide for scientists
-A resource guide written with Charlie Rodriguez-Deliz and the [Scientist Action and Advocacy Network](https://scaan.net) (ScAAN), by neurodivergent scientists for the broader scientific community: what neurodiversity and disability mean, disability rights as civil rights, why this concerns scientists, community-based participatory research, identity-first language, and re-evaluating interventions like ABA. [PDF](https://scaan.net/docs/20211110-neurodiversity_science.pdf)
+A resource guide written with Charlie Rodriguez-Deliz and the [Scientist Action and Advocacy Network](https://scaan.net), by neurodivergent scientists for the broader scientific community: what neurodiversity and disability mean, disability rights as civil rights, why this concerns scientists, community-based participatory research, identity-first language, and re-evaluating interventions like ABA. [PDF](https://scaan.net/docs/20211110-neurodiversity_science.pdf)
 
 
 #### Season of the Bitch, ep. 185: Freud is the worst
