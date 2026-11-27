@@ -4,11 +4,19 @@ eleventyNavigation:
   order: 2
 ---
 
-# Poetry
+A few selected poems. The rest are on [wordpress](https://thelemonbot.wordpress.com).
 
-A few selected poems. The rest, going back to 2011, are on [wordpress](https://thelemonbot.wordpress.com).
+### <a href="https://thelemonbot.wordpress.com/2025/03/18/sunflower-sweater-weather/" rel="noreferrer" target="_blank">sunflower sweater weather.</a>
 
-## sooth & nail
+<div class="poem">
+<p>sunrises &emsp;&emsp;&emsp; aren’t &emsp;&emsp;&emsp; overrated<br>
+but&emsp; rising&emsp; to &emsp;your &emsp;glowing<br>
+countenance from the depths<br>
+of dreamland is far more<br>
+like living the dream.</p>
+</div>
+
+### <a href="https://thelemonbot.wordpress.com/2025/03/18/sunflower-sweater-weather/" rel="noreferrer" target="_blank">sooth & nail</a>
 
 <div class="poem">
 <p>hold fast my skin,<br>
@@ -64,75 +72,9 @@ I know what’s within me;<br>
 a channel, a river bed<br>
 water and whim.</p>
 </div>
-<p class="meta">October 2026 &middot; <a href="https://thelemonbot.wordpress.com/2026/10/28/sooth-nail/" rel="noreferrer" target="_blank">thelemonbot &#x2197;</a></p>
 
-## drip.
 
-<div class="poem">
-<p>Two drops on a mossy brick<br>
-Surrounded by an impossibly vast expanse<br>
-The storm won’t let up, a river in spate<br>
-Towering blocks raring to fall.</p>
-<p>Two drops slither down in synchronous delight<br>
-Trying to not lose themselves<br>
-In the deluge, down the brick walls<br>
-Occasionally stopping on a blade of grass.</p>
-<p>Two drops find a rhythm unlikely<br>
-Circling, here-a-stopping, there-a-dropping<br>
-Following one another down the plunge<br>
-Night falls unbeknownst to anyone.</p>
-<p>Two drops join the collective din<br>
-Of ten billion drops passing through the wind<br>
-Soon to swim back up the sky<br>
-And form ten billion more.</p>
-</div>
-<p class="meta">August 2026 &middot; <a href="https://thelemonbot.wordpress.com/2026/08/08/drip/" rel="noreferrer" target="_blank">thelemonbot &#x2197;</a></p>
-
-## sunflower sweater weather.
-
-<div class="poem">
-<p>sunrises &emsp;&emsp;&emsp; aren’t &emsp;&emsp;&emsp; overrated<br>
-but&emsp; rising&emsp; to &emsp;your &emsp;glowing<br>
-countenance from the depths<br>
-of dreamland is far more<br>
-like living the dream.</p>
-</div>
-<p class="meta">March 2025 &middot; <a href="https://thelemonbot.wordpress.com/2025/03/18/sunflower-sweater-weather/" rel="noreferrer" target="_blank">thelemonbot &#x2197;</a></p>
-
-## nestled near embers.
-
-<div class="poem">
-<p>I don’t get giddy when I breathe<br>
-in but every breath that I<br>
-steal from under your nose<br>
-while we fold up somewhere<br>
-is a contact high.</p>
-</div>
-<p class="meta">June 2025 &middot; <a href="https://thelemonbot.wordpress.com/2025/06/12/nestled-near-embers/" rel="noreferrer" target="_blank">thelemonbot &#x2197;</a></p>
-
-## Forgotten.
-
-<div class="poem">
-<p>Forgotten words I didn’t say<br>
-Forgotten, or just yesterday’s<br>
-Soon it will be another<br>
-Forgotten doubt</p>
-<p>Forgotten dreams I didn’t dream<br>
-Misremembered, and better still<br>
-Missed memories<br>
-I dream without</p>
-<p>For gathering in my dusty eye<br>
-Stormy day within, without<br>
-Is there a chance<br>
-Of sudden drought</p>
-<p>Forgotten birds, they didn’t mind<br>
-Flew high, far, free, and light<br>
-Let the wind carry<br>
-Them away</p>
-</div>
-<p class="meta">September 2025 &middot; <a href="https://thelemonbot.wordpress.com/2025/09/25/forgotten/" rel="noreferrer" target="_blank">thelemonbot &#x2197;</a></p>
-
-## ephemera.
+### <a href="https://thelemonbot.wordpress.com/2025/03/18/sunflower-sweater-weather/" rel="noreferrer" target="_blank">ephemera.</a>
 
 <div class="poem">
 <p>I catch my reflection in the dusty window pane of a passing train,<br>
@@ -154,13 +96,12 @@ Why is there such a fine line between self love and self loathing?<br>
 To be loved by myself is intoxicating, overbearing<br>
 Love, self.</p>
 </div>
-<p class="meta">May 2023 &middot; <a href="https://thelemonbot.wordpress.com/2023/05/23/ephemera/" rel="noreferrer" target="_blank">thelemonbot &#x2197;</a></p>
 
-## Flowers, dancing & weak knees
+### <a href="https://thelemonbot.wordpress.com/2025/03/18/sunflower-sweater-weather/" rel="noreferrer" target="_blank">Flowers, dancing & weak knees</a>
 
 <div class="poem">
 <p>Dollop of honey,<br>
 Slow teardrop, sweet, sour memory<br>
 Of a thousand trips.</p>
 </div>
-<p class="meta">June 2019 &middot; <a href="https://thelemonbot.wordpress.com/2019/06/28/flowers-dancing-and-weak-knees/" rel="noreferrer" target="_blank">thelemonbot &#x2197;</a></p>
+
