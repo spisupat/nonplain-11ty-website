@@ -295,3 +295,35 @@ img {
     margin: 3px 0;
   }
 }
+
+/* Poems */
+.poem p {
+  font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+  font-size: 1.05em;
+  line-height: 1.75;
+  margin: 0 0 1.5em;
+}
+
+/* Small muted lines: dates, bylines */
+.meta {
+  color: var(--gray-600);
+  font-size: 0.875em;
+}
+
+/* Index lists on section pages */
+ul.index-list {
+  list-style-type: none;
+  margin: 0 0 1.5em;
+  padding: 0;
+}
+
+ul.index-list li {
+  margin: 0 0 1.1em;
+}
+
+/* Stubs */
+.soon {
+  color: var(--gray-600);
+  font-size: 0.8em;
+  font-style: italic;
+}
