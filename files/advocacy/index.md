@@ -4,8 +4,8 @@ eleventyNavigation:
   order: 3
 ---
 
-[Neurodiversity](https://neuroqueer.com/neurodiversity-terms-and-definitions/) refers to the infinite variation in human minds. The neurodiversity paradigm is the idea that there's no "right" way for a mind to function, and the neurodiversity movement seeks civil rights, equality & inclusion for neurodivergent folks. 
-Psychology & psychiatry have a long history of being on the wrong side of this, causing harms to neurodivergent folks through pathologisation, eugenics, and institutionalisation. Disability justice gives us a framework to address these harms, and participatory approaches invite us to rethink the way we do research. Here are some resources on the topic:
+[Neurodiversity](https://neuroqueer.com/neurodiversity-terms-and-definitions/) refers to the infinite variation in human minds. The neurodiversity paradigm is the perspective that there's no "right" way for a mind to function, and the neurodiversity movement seeks civil rights, equality & inclusion for neurodivergent folks. 
+Psychology & psychiatry have a long history of being on the wrong side of this, causing harms to neurodivergent folks through pathologisation, eugenics, and institutionalisation. Black feminist disability justice gives us a framework to address these harms, and participatory approaches invite us to rethink the way we do research. Here are some resources on the topic:
 
 
 #### Neurodiversity in academia
