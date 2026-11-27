@@ -16,7 +16,33 @@ of dreamland is far more<br>
 like living the dream.</p>
 </div>
 
-### <a href="https://thelemonbot.wordpress.com/2025/03/18/sunflower-sweater-weather/" rel="noreferrer" target="_blank">sooth & nail</a>
+### <a href="https://thelemonbot.wordpress.com/2026/11/19/peel-new-commuter-poem/" rel="noreferrer" target="_blank">peel/new commuter poem</a>
+
+<div class="poem">
+<p>Cork and mottle, cork and sheaf<br>
+Pale red, white, and bottled beef.<br>
+Wrapped like pastry, foreground trees<br>
+Gig workers on metal sheets.<br>
+Skies cross down on ocean feet<br>
+Fried potatoes, boiled reef.<br>
+Water current,<br>
+Current grief,<br>
+Past present and future teeth<br>
+Words abundant, concerns brief,<br>
+Water fresh, fresh water thief<br>
+Flowers, dresses in the pink<br>
+Hearts disabled, bodies bleak<br>
+Well lit tunnels, well lit streets<br>
+Wealthy neighbours, plastic wreaths<br>
+Plastic neighbours, shiny seats<br>
+Tables empty, clean, and neat.<br>
+Clear conditions, airline breeze<br>
+Airways blocked by carried wheeze<br>
+Whose ending, and whose reprise?<br>
+Whose blank page and whose skin seized?</p>
+</div>
+
+### <a href="https://thelemonbot.wordpress.com/2026/10/28/sooth-nail/" rel="noreferrer" target="_blank">sooth & nail</a>
 
 <div class="poem">
 <p>hold fast my skin,<br>
@@ -74,7 +100,7 @@ water and whim.</p>
 </div>
 
 
-### <a href="https://thelemonbot.wordpress.com/2025/03/18/sunflower-sweater-weather/" rel="noreferrer" target="_blank">ephemera.</a>
+### <a href="https://thelemonbot.wordpress.com/2023/05/23/ephemera/" rel="noreferrer" target="_blank">ephemera.</a>
 
 <div class="poem">
 <p>I catch my reflection in the dusty window pane of a passing train,<br>
@@ -97,7 +123,7 @@ To be loved by myself is intoxicating, overbearing<br>
 Love, self.</p>
 </div>
 
-### <a href="https://thelemonbot.wordpress.com/2025/03/18/sunflower-sweater-weather/" rel="noreferrer" target="_blank">Flowers, dancing & weak knees</a>
+### <a href="https://thelemonbot.wordpress.com/2019/06/28/flowers-dancing-and-weak-knees/" rel="noreferrer" target="_blank">Flowers, dancing & weak knees</a>
 
 <div class="poem">
 <p>Dollop of honey,<br>

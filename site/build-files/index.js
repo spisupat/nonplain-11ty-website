@@ -10,6 +10,17 @@ const {
   markdownLinksToHTML,
 } = require('./helpers');
 
+/*
+ * Folders under `files/` to leave out of the build. Content stays in the
+ * repo; remove an entry here to publish it again.
+ */
+const HIDDEN_FOLDERS = ['research'];
+
+function isHidden(filepath) {
+  const rel = path.relative(FILES_ROOT, filepath);
+  return HIDDEN_FOLDERS.some((folder) => rel === folder || rel.startsWith(folder + path.sep));
+}
+
 function buildFiles() {
   /* Hack for easy logging */
   const print = console.log.bind(console);
@@ -17,7 +28,9 @@ function buildFiles() {
   print('Building files...');
 
   /* Load all files into Files instance using glob */
-  const files = new Files().load(path.join(FILES_ROOT, '/**/*.md'));
+  const files = new Files().load(path.join(FILES_ROOT, '/**/*.md'), {
+    filterFilepaths: (filepath) => !isHidden(filepath),
+  });
 
   /* Transform the files as necessary for the 11ty build */
   files.transform(({ body, metadata }) => {
